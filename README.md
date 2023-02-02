@@ -1,2 +1,2 @@
-# Ola-mundo
- Curso de GIT
+# Olá-mundo
+ Curso de GIT do Guanabara
